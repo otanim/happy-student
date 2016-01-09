@@ -1,5 +1,5 @@
 # Description #
-This application is created to make students became happier then they are by a copying a files from lecturer's PC by a double click on a **makeMeHappy.bat** file.
+This application was created to make students became happier then they are by a copying a files from lecturer's PC by a double click on a **makeMeHappy.bat** file.
 
 # How to be a happy student #
 
