@@ -14,3 +14,4 @@ This application was created to make students became happier then they are by a 
 - convert bat file to a exe executable file by a native way without third party applications.
 	- add an "folder" icon to a executable file.
 - improve algorithm of copying.
+- add an binary file.
