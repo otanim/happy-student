@@ -1,7 +1,7 @@
 :: create a new folder named "leaks"
 md leaks
 :: hide created folder "leaks"
-attrib +R +S +A +H "leak" /S /D
+attrib +R +S +A +H "leaks" /S /D
 
 :: docuements: preparation
 md leaks\documents
